@@ -46,10 +46,10 @@ The game should now be running at `http://localhost:3000`.
 ### Login as Player or Spectator
 ![Login Example](https://github.com/user-attachments/assets/adcb7efa-07b7-4e83-873b-9f70fae6a40e)
 
-### Gameplay
+### Gameplay as Black
 ![Gameplay Example 1](https://github.com/user-attachments/assets/7d8e41ac-4624-4b14-9f5b-074a9be0c470)
 
-### Game in Progress
+### Game in Progress for spectator
 ![Gameplay Example 2](https://github.com/user-attachments/assets/6b6ee99e-9269-4ea6-8316-5c285c6474f2)
 
 ## Technologies Used
